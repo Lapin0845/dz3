@@ -1,0 +1,47 @@
+#q{
+    list-style-image: url("http://www.debokofhetloket.nl/pict/arrow_right_zwart.gif");
+    font-size: 60px;
+}
+#q1 {
+    list-style-type: none;
+}
+
+div2 {
+    font-size: 30px;
+    align-items: 20px;
+    list-style-type: none;
+}
+body{
+    margin: 50px;
+    list-style-type: none;
+}
+
+
+#q2 {
+    list-style-image: url("http://www.debokofhetloket.nl/pict/arrow_right_zwart.gif");
+    font-size: 60px;
+}
+ol{
+    font-size: 30px;
+    align-items: 20px;
+    list-style-type: none;
+}
+#q4{
+    list-style-image: url("http://www.debokofhetloket.nl/pict/arrow_right_zwart.gif");
+    font-size: 60px;
+}
+#q5{
+    font-size: 30px;
+    align-items: 20px;
+    list-style-type: none;
+}
+#v6{
+    list-style-image: url("http://www.debokofhetloket.nl/pict/arrow_right_zwart.gif");
+    font-size: 60px;
+}
+#q7{
+    font-size: 30px;
+    align-items: 30px;
+    list-style-type: none;
+
+}
